@@ -16,8 +16,10 @@ openxcom
 docs/Doxyfile
 # basics
 *.o
+#ignore MacOsX stuff
 .DS_Store
 Thumbs.db
+MacOsX
 #Ignore files built by Visual Studio
 *.obj
 *.exe
